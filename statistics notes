@@ -1,0 +1,38 @@
+Mean - The average value
+Median - The mid point value
+Mode - The most common value
+
+
+Standard deviation:
+
+Standard deviation is a number that describes how spread out the values are.
+A low standard deviation means that most of the numbers are close to the mean (average) value.
+A high standard deviation means that the values are spread out over a wider range.
+
+Variance:
+Variance is another number that indicates how spread out the values are.
+
+standard deviation = square root of the variance
+
+Population and Sample:
+Population:
+A population is the collection of all items of interest to our study and is usually denoted with an uppercase N.
+
+Sample: 
+A sample is a subset of the population and is denoted with a lowercase n.
+A part of the population drawn according to a rule or plan for concluding characteristics is called a sample.
+Sample size
+The number of items in a sample is called a sample size
+
+Assignments:
+1.) Define Mean, mode, median.
+2.) Define standard deviation and variance.
+3.) Define Population mean and Sample mean.
+4.) Find Mean, median, mode and standard deviation for each data set. 
+    a.) 7,11,16, 14, 11, 13, 19, 13,13
+    b.) 16, 15, 16, 17, 19, 12, 14, 9
+    c.) 27, 66, 24, 81, 50, 40, 74, 81, 97
+
+
+
+
